@@ -1,7 +1,7 @@
 """
 Implementation of FedAvg using Pytorch
 
-Author: Kai Zhang, SONG Lab (https://songlab.us)
+Author: Kai Zhang(www.kaizhang.us)
 https://github.com/taokz
 """
 
